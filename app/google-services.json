@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415708609038",
+    "project_id": "proyecto-final-db8ed",
+    "storage_bucket": "proyecto-final-db8ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415708609038:android:15b9de97a6adae0b37da5f",
+        "android_client_info": {
+          "package_name": "com.idat.cine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415708609038-cncrqsh2nl2in064ae86dkfqq7leg23l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdyZgtzwmQAWTf3roGrm8I8Ia5N5CwjuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415708609038-cncrqsh2nl2in064ae86dkfqq7leg23l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".fragment.BillboardFragment">
+
+    <!-- image viwer to view the images -->
+    <ImageView
+        android:id="@+id/imageViewMain"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="true"
+        android:focusable="true"
+        android:onClick="myClickMethod"
+
+        android:scaleType="fitXY"
+        android:src="@drawable/spiderman" />
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_billboard"
+        android:enabled="true"
+        android:icon="@drawable/ic_casa_24"
+        android:title="@string/billboard" />
+
+
+    <item
+        android:id="@+id/nav_reel"
+        android:enabled="true"
+        android:icon="@drawable/ic_carrete_24"
+        android:title="@string/reel" />
+    <item
+        android:id="@+id/nav_theater"
+        android:enabled="true"
+        android:icon="@drawable/ic_cine_24"
+        android:title="@string/theater" />
+
+
+</menu>
